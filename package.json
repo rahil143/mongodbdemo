@@ -1,0 +1,19 @@
+{
+  "name": "mongodbdemo",
+  "version": "1.0.0",
+  "description": "Mongo Db Connection Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahil143/mongodbdemo.git"
+  },
+  "author": "Rahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahil143/mongodbdemo/issues"
+  },
+  "homepage": "https://github.com/rahil143/mongodbdemo#readme"
+}
